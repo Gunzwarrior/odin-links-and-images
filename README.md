@@ -1,0 +1,1 @@
+Assignment to learn to put links and images in HTML pages.
